@@ -1,26 +1,49 @@
 import requests
 import re
+import json
 import sys
 
 CREDLY_USER = "gurdip-sira"
 README = "README.md"
 
-api_url = f"https://www.credly.com/api/v1/users/{CREDLY_USER}/badges"
+url = f"https://www.credly.com/users/{CREDLY_USER}"
 
-resp = requests.get(api_url, timeout=10)
+headers = {
+    "User-Agent": "Mozilla/5.0 (GitHub Actions)",
+    "Accept": "text/html",
+}
+
+resp = requests.get(url, headers=headers, timeout=10)
 resp.raise_for_status()
 
-data = resp.json()
-badges = data.get("data", [])
+# Extract Next.js data
+match = re.search(
+    r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>',
+    resp.text,
+    re.S,
+)
+
+if not match:
+    print("⚠️ Credly page structure changed — no __NEXT_DATA__ found")
+    sys.exit(0)
+
+data = json.loads(match.group(1))
+
+# Navigate the Next.js payload
+badges = (
+    data.get("props", {})
+        .get("pageProps", {})
+        .get("badges", [])
+)
 
 if not badges:
     print("⚠️ No Credly badges found — skipping update")
-    sys.exit(0)  # do NOT fail CI
+    sys.exit(0)
 
 output = '<p align="left">\n'
 for badge in badges:
-    img = badge["image_url"]
-    link = badge["public_url"]
+    img = badge["imageUrl"]
+    link = badge["publicUrl"]
     output += f'''  <a href="{link}">
     <img src="{img}" width="100" />
   </a>\n'''
@@ -30,10 +53,10 @@ with open(README) as f:
     content = f.read()
 
 content = re.sub(
-    r'<!-- CREDLY-BADGES:START -->.*<!-- CREDLY-BADGES:END -->',
+    r'<!-- CREDLY-BADGES:START -->.*?<!-- CREDLY-BADGES:END -->',
     f'<!-- CREDLY-BADGES:START -->\n{output}\n<!-- CREDLY-BADGES:END -->',
     content,
-    flags=re.S
+    flags=re.S,
 )
 
 with open(README, "w") as f:
