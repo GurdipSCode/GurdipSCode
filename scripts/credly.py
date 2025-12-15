@@ -1,30 +1,38 @@
 import requests
 import re
 
-CREDLY_USER = "gurdip-sira"
+CREDLY_USER = "YOUR-CREDLY-USERNAME"
 README = "README.md"
 
-url = f"https://www.credly.com/users/{CREDLY_USER}.json"
-data = requests.get(url).json()
+profile_url = f"https://www.credly.com/users/{CREDLY_USER}"
 
-badges = data["data"]["badges"]
+html = requests.get(profile_url).text
 
-html = "<p align=\"left\">\n"
-for b in badges:
-    html += f"""  <a href="{b['public_url']}">
-    <img src="{b['image_url']}" width="100" />
-  </a>\n"""
-html += "</p>"
+# Find badge blocks
+badges = re.findall(
+    r'"image_url":"(https://images\.credly\.com/[^"]+)".+?"public_url":"([^"]+)"',
+    html
+)
+
+if not badges:
+    raise RuntimeError("No badges found — check Credly username")
+
+output = '<p align="left">\n'
+for img, link in badges:
+    output += f'''  <a href="{link}">
+    <img src="{img}" width="100" />
+  </a>\n'''
+output += '</p>'
 
 with open(README) as f:
     content = f.read()
 
-updated = re.sub(
-    r"<!-- CREDLY-BADGES:START -->.*<!-- CREDLY-BADGES:END -->",
-    f"<!-- CREDLY-BADGES:START -->\n{html}\n<!-- CREDLY-BADGES:END -->",
+content = re.sub(
+    r'<!-- CREDLY-BADGES:START -->.*<!-- CREDLY-BADGES:END -->',
+    f'<!-- CREDLY-BADGES:START -->\n{output}\n<!-- CREDLY-BADGES:END -->',
     content,
     flags=re.S
 )
 
 with open(README, "w") as f:
-    f.write(updated)
+    f.write(content)
