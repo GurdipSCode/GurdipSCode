@@ -1,7 +1,7 @@
 import requests
 import re
 
-CREDLY_USER = "YOUR-CREDLY-USERNAME"
+CREDLY_USER = "gurdip-sira"
 README = "README.md"
 
 profile_url = f"https://www.credly.com/users/{CREDLY_USER}"
