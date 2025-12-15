@@ -1,20 +1,21 @@
-name: Update badges from credly site
+name: Sync Credly Badges
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "10 0 */1 * *"
-  pull_request:
+    - cron: "0 6 * * *"   # daily
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with badges from credly
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Update Readme with badges from credly
-        uses: pemtajo/badge-readme@2.4.0
+      - uses: actions/checkout@v4
+
+      - name: Fetch Credly badges
+        run: |
+          python scripts/credly.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: "Update badges from credly"
-          CREDLY_USER: gurdip-sira
-          CREDLY_SORT: POPULAR
+          commit_message: "chore: sync Credly certifications"
