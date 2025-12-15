@@ -14,6 +14,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 ---
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 🧰 Technology Stack
 
 ### ☁️ Cloud & Kubernetes Platforms
