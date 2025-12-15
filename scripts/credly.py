@@ -1,65 +1,65 @@
-import requests
 import re
-import json
-import sys
+import time
+import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
-CREDLY_USER = "gurdip-sira"
-README = "README.md"
+from settings import CREDLY_USER, NUMBER_LAST_BADGES, README_FILE
 
-url = f"https://www.credly.com/users/{CREDLY_USER}"
+class Credly:
+    def __init__(self, username=None, number_badges=None, readme_file=None):
+        self.BASE_URL = "https://www.credly.com"
+        self.USER = username or CREDLY_USER or "pemtajo"
+        self.NUMBER_BADGES = number_badges or NUMBER_LAST_BADGES or 0
+        self.README_FILE = readme_file or README_FILE or "README.md"
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (GitHub Actions)",
-    "Accept": "text/html",
-}
+    def get_webdriver(self):
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--disable-software-rasterizer")
+        chrome_options.add_argument("--disable-background-timer-throttling")
+        chrome_options.add_argument("--disable-backgrounding-occluded-windows")
+        chrome_options.add_argument("--disable-renderer-backgrounding")
+        chrome_options.add_argument("--disable-features=TranslateUI")
+        chrome_options.add_argument("--window-size=1920,1080")
+        chrome_options.add_argument("--remote-debugging-port=9222")
+        chrome_options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36")
+        chrome_options.add_argument("--log-level=3")
+        chrome_options.add_argument("--silent")
 
-resp = requests.get(url, headers=headers, timeout=10)
-resp.raise_for_status()
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        return driver
 
-# Extract Next.js data
-match = re.search(
-    r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>',
-    resp.text,
-    re.S,
-)
+    def fetch_html(self):
+        url = f"{self.BASE_URL}/users/{self.USER}"
+        try:
+            driver = self.get_webdriver()
+            driver.get(url)
+            WebDriverWait(driver, 15).until(
+                lambda d: d.find_element(By.ID, "root").get_attribute("innerHTML").strip() != ""
+            )
+            time.sleep(3)
+            html_content = driver.page_source
+            driver.quit()
+            return html_content
+        except Exception:
+            # fallback to requests
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36'
+            }
+            response = requests.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+            return response.text
 
-if not match:
-    print("⚠️ Credly page structure changed — no __NEXT_DATA__ found")
-    sys.exit(0)
-
-data = json.loads(match.group(1))
-
-# Navigate the Next.js payload
-badges = (
-    data.get("props", {})
-        .get("pageProps", {})
-        .get("badges", [])
-)
-
-if not badges:
-    print("⚠️ No Credly badges found — skipping update")
-    sys.exit(0)
-
-output = '<p align="left">\n'
-for badge in badges:
-    img = badge["imageUrl"]
-    link = badge["publicUrl"]
-    output += f'''  <a href="{link}">
-    <img src="{img}" width="100" />
-  </a>\n'''
-output += '</p>'
-
-with open(README) as f:
-    content = f.read()
-
-content = re.sub(
-    r'<!-- CREDLY-BADGES:START -->.*?<!-- CREDLY-BADGES:END -->',
-    f'<!-- CREDLY-BADGES:START -->\n{output}\n<!-- CREDLY-BADGES:END -->',
-    content,
-    flags=re.S,
-)
-
-with open(README, "w") as f:
-    f.write(content)
-
-print(f"✅ Updated README with {len(badges)} Credly badges")
+    def extract_badges(self, html):
+        soup = BeautifulSoup(html
