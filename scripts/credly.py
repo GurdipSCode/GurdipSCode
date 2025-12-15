@@ -1,24 +1,26 @@
 import requests
 import re
+import sys
 
 CREDLY_USER = "gurdip-sira"
 README = "README.md"
 
-profile_url = f"https://www.credly.com/users/{CREDLY_USER}"
+api_url = f"https://www.credly.com/api/v1/users/{CREDLY_USER}/badges"
 
-html = requests.get(profile_url).text
+resp = requests.get(api_url, timeout=10)
+resp.raise_for_status()
 
-# Find badge blocks
-badges = re.findall(
-    r'"image_url":"(https://images\.credly\.com/[^"]+)".+?"public_url":"([^"]+)"',
-    html
-)
+data = resp.json()
+badges = data.get("data", [])
 
 if not badges:
-    raise RuntimeError("No badges found — check Credly username")
+    print("⚠️ No Credly badges found — skipping update")
+    sys.exit(0)  # do NOT fail CI
 
 output = '<p align="left">\n'
-for img, link in badges:
+for badge in badges:
+    img = badge["image_url"]
+    link = badge["public_url"]
     output += f'''  <a href="{link}">
     <img src="{img}" width="100" />
   </a>\n'''
@@ -36,3 +38,5 @@ content = re.sub(
 
 with open(README, "w") as f:
     f.write(content)
+
+print(f"✅ Updated README with {len(badges)} Credly badges")
