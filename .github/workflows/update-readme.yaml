@@ -4,7 +4,8 @@ on:
   push:
   schedule:
     - cron: "0 */1 * * *"
-
+  workflow_dispatch: # Allow manual runs
+  
 jobs:
   markscribe:
     runs-on: ubuntu-latest
