@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-experiments-platform-explainability](https://github.com/GurdipSCode/devops-experiments-platform-explainability) -  (1 day ago)
+- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (today)
 - [GurdipSCode/devops-kubernetes-gitops-troubleshoot](https://github.com/GurdipSCode/devops-kubernetes-gitops-troubleshoot) -  (1 day ago)
-- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (1 day ago)
-- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (2 days ago)
+- [GurdipSCode/devops-experiments-platform-explainability](https://github.com/GurdipSCode/devops-experiments-platform-explainability) -  (1 day ago)
 - [GurdipSCode/devops-experiments-postmortems-as-code](https://github.com/GurdipSCode/devops-experiments-postmortems-as-code) - Framework for postmorterms-as-code (2 days ago)
+- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -28,7 +28,7 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2398 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
 - [ramanagali/Interview_Guide](https://github.com/ramanagali/Interview_Guide) - Interview, Certification preparation guide for Cloud DevOps professionals - 531 stars
-- [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] - 2863 stars
+- [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] - 2864 stars
 - [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions) - Creating this repository as a central hub for all DevOps interview questions to help you land your next job. - 1689 stars
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes. - 1728 stars
 
@@ -59,7 +59,10 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 ## 🎓 Certificates & Trainings
 
-badges_tag
+
+
+
+
 ## 💻 Technologies & Tools
 
 ### ☁️ Cloud & Kubernetes Platforms
