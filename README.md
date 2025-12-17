@@ -59,9 +59,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 ## 🎓 Certificates & Trainings
 
-
-badges_tag
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 ## 💻 Technologies & Tools
