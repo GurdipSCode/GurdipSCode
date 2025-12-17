@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-experiments-platform-explainability](https://github.com/GurdipSCode/devops-experiments-platform-explainability) -  (today)
-- [GurdipSCode/devops-kubernetes-gitops-troubleshoot](https://github.com/GurdipSCode/devops-kubernetes-gitops-troubleshoot) -  (today)
-- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (today)
-- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (1 day ago)
-- [GurdipSCode/devops-experiments-postmortems-as-code](https://github.com/GurdipSCode/devops-experiments-postmortems-as-code) - Framework for postmorterms-as-code (1 day ago)
+- [GurdipSCode/devops-experiments-platform-explainability](https://github.com/GurdipSCode/devops-experiments-platform-explainability) -  (1 day ago)
+- [GurdipSCode/devops-kubernetes-gitops-troubleshoot](https://github.com/GurdipSCode/devops-kubernetes-gitops-troubleshoot) -  (1 day ago)
+- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (1 day ago)
+- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (2 days ago)
+- [GurdipSCode/devops-experiments-postmortems-as-code](https://github.com/GurdipSCode/devops-experiments-postmortems-as-code) - Framework for postmorterms-as-code (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,7 +22,7 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5698 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136224 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136226 stars
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18118 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11301 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2398 stars
