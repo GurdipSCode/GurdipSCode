@@ -10,9 +10,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (today)
+- [GurdipSCode/devops-build-scripts](https://github.com/GurdipSCode/devops-build-scripts) - Scripts for the CI process - dotnet, Python, NPM, etc. (today)
 - [GurdipSCode/devops-kubernetes-gitops-kubescape](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubescape) - Kubescape deployment via ArgoCD (today)
-- [GurdipSCode/devops-build-scripts](https://github.com/GurdipSCode/devops-build-scripts) -  (today)
+- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (today)
 - [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (today)
 - [GurdipSCode/devops-terraform-modules-vmware](https://github.com/GurdipSCode/devops-terraform-modules-vmware) -  (today)
 
@@ -22,8 +22,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5699 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136250 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18148 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136251 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18149 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11303 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2419 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
