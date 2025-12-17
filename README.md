@@ -149,7 +149,4 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 ## ⚡ GitHub Stats
 
-![dirien](https://github-readme-stats.vercel.app/api?username=dirien&show_icons=true&count_private=true&theme=dracula)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dirien)
-[![GitHub followers](https://img.shields.io/github/followers/dirien.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dirien?tab=followers)
+![gurdip](https://github-readme-stats.vercel.app/api?username=gurdips5&show_icons=true&count_private=true&theme=dracula)
