@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-build-scripts](https://github.com/GurdipSCode/devops-build-scripts) - Scripts for the CI process - dotnet, Python, NPM, etc. (today)
-- [GurdipSCode/devops-kubernetes-gitops-kubescape](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubescape) - Kubescape deployment via ArgoCD (today)
-- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (today)
-- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (today)
-- [GurdipSCode/devops-terraform-modules-vmware](https://github.com/GurdipSCode/devops-terraform-modules-vmware) -  (today)
+- [GurdipSCode/devops-policies-kubernetes](https://github.com/GurdipSCode/devops-policies-kubernetes) - Kubernetes policies, powered by Kyverno. (1 day ago)
+- [GurdipS5/devops-terraform-modules-vault](https://github.com/GurdipS5/devops-terraform-modules-vault) - Terraform module for Hashicorp&#39;s Vault (1 day ago)
+- [GurdipS5/devops-terraform-modules-gns3](https://github.com/GurdipS5/devops-terraform-modules-gns3) - Terraform module for GNS3 (1 day ago)
+- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (1 day ago)
+- [GurdipSCode/devops-kubernetes-gitops-kubescape](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubescape) - Kubescape deployment via ArgoCD (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,8 +22,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5699 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136251 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18149 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136253 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18150 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11303 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2419 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
@@ -40,11 +40,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👨‍💻 Repositories I created recently
 
-- [GurdipS5/Test2](https://github.com/GurdipS5/Test2)
-- [GurdipS5/devops-policies-opnsense](https://github.com/GurdipS5/devops-policies-opnsense)
-- [GurdipS5/TeamWorkingAgreement](https://github.com/GurdipS5/TeamWorkingAgreement)
-- [GurdipS5/AgentBootstrapper](https://github.com/GurdipS5/AgentBootstrapper)
-- [GurdipS5/Falco.UsefulRules](https://github.com/GurdipS5/Falco.UsefulRules) - Curated useful rules for Falco deployment
+- [GurdipS5/devops-terraform-modules-mondoo](https://github.com/GurdipS5/devops-terraform-modules-mondoo) - Terraform module for Mondoo
+- [GurdipS5/devops-terraform-modules-vault](https://github.com/GurdipS5/devops-terraform-modules-vault) - Terraform module for Hashicorp&#39;s Vault
+- [GurdipS5/devops-terraform-modules-gns3](https://github.com/GurdipS5/devops-terraform-modules-gns3) - Terraform module for GNS3
+- [GurdipS5/devops-terraform-modules-buildkite](https://github.com/GurdipS5/devops-terraform-modules-buildkite) - Terraform module for Buildkite
+- [GurdipS5/devops-terraform-modules-teamcity](https://github.com/GurdipS5/devops-terraform-modules-teamcity) - Terraform module for TeamCity
 
 ## 🧭 Focus Areas
 
