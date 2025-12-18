@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-policies-kubernetes](https://github.com/GurdipSCode/devops-policies-kubernetes) - Kubernetes policies, powered by Kyverno. (1 day ago)
-- [GurdipS5/devops-terraform-modules-vault](https://github.com/GurdipS5/devops-terraform-modules-vault) - Terraform module for Hashicorp&#39;s Vault (1 day ago)
-- [GurdipS5/devops-terraform-modules-gns3](https://github.com/GurdipS5/devops-terraform-modules-gns3) - Terraform module for GNS3 (1 day ago)
-- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (1 day ago)
-- [GurdipSCode/devops-kubernetes-gitops-kubescape](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubescape) - Kubescape deployment via ArgoCD (1 day ago)
+- [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify (today)
+- [GurdipSCode/devops-terraform-module-grafana](https://github.com/GurdipSCode/devops-terraform-module-grafana) - Terraform module for Grafana (today)
+- [GurdipS5/devops-terraform-modules-ngrok](https://github.com/GurdipS5/devops-terraform-modules-ngrok) - Terraform module for NGrok (today)
+- [GurdipS5/devops-terraform-module-checkly](https://github.com/GurdipS5/devops-terraform-module-checkly) - Terraform module for Checkly (today)
+- [GurdipS5/devops-terraform-modules-terrapwner](https://github.com/GurdipS5/devops-terraform-modules-terrapwner) - Terraform module for Terrapwner (today)
 
 #### 🚀 Latest releases I contributed to
 
@@ -40,11 +40,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👨‍💻 Repositories I created recently
 
+- [GurdipS5/devops-terraform-module-checkly](https://github.com/GurdipS5/devops-terraform-module-checkly) - Terraform module for Checkly
+- [GurdipS5/devops-terraform-modules-ngrok](https://github.com/GurdipS5/devops-terraform-modules-ngrok) - Terraform module for NGrok
+- [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify
 - [GurdipS5/devops-terraform-modules-mondoo](https://github.com/GurdipS5/devops-terraform-modules-mondoo) - Terraform module for Mondoo
 - [GurdipS5/devops-terraform-modules-vault](https://github.com/GurdipS5/devops-terraform-modules-vault) - Terraform module for Hashicorp&#39;s Vault
-- [GurdipS5/devops-terraform-modules-gns3](https://github.com/GurdipS5/devops-terraform-modules-gns3) - Terraform module for GNS3
-- [GurdipS5/devops-terraform-modules-buildkite](https://github.com/GurdipS5/devops-terraform-modules-buildkite) - Terraform module for Buildkite
-- [GurdipS5/devops-terraform-modules-teamcity](https://github.com/GurdipS5/devops-terraform-modules-teamcity) - Terraform module for TeamCity
 
 ## 🧭 Focus Areas
 
