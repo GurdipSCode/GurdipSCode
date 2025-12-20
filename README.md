@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipS5/devops-policies-terraform-axiom](https://github.com/GurdipS5/devops-policies-terraform-axiom) - OPA Policies for Axiom Terraform configuration (1 day ago)
-- [GurdipSCode/devops-policies-teamcity](https://github.com/GurdipSCode/devops-policies-teamcity) - OPA Policies for TeamCity (1 day ago)
+- [GurdipSCode/devops-policies-teamcity](https://github.com/GurdipSCode/devops-policies-teamcity) - OPA Policies for TeamCity (today)
+- [GurdipSCode/devops-policies-buildkite](https://github.com/GurdipSCode/devops-policies-buildkite) - OPA Policies for BuildKite (today)
 - [GurdipSCode/devops-terraform-modules-tailscale](https://github.com/GurdipSCode/devops-terraform-modules-tailscale) - Terraform module for Tailscale resources (1 day ago)
 - [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify (1 day ago)
-- [GurdipSCode/devops-terraform-modules-ngrok](https://github.com/GurdipSCode/devops-terraform-modules-ngrok) - Terraform module for NGrok (2 days ago)
+- [GurdipS5/devops-policies-terraform-axiom](https://github.com/GurdipS5/devops-policies-terraform-axiom) - OPA Policies for Axiom Terraform configuration (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,9 +22,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5699 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136307 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136308 stars
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18178 stars
-- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11305 stars
+- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11306 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2434 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
 - [ramanagali/Interview_Guide](https://github.com/ramanagali/Interview_Guide) - Interview, Certification preparation guide for Cloud DevOps professionals - 531 stars
