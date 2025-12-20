@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-terraform-modules-tailscale](https://github.com/GurdipSCode/devops-terraform-modules-tailscale) - Terraform module for Tailscale resources (today)
-- [GurdipS5/devops-policies-terraform-axiom](https://github.com/GurdipS5/devops-policies-terraform-axiom) - OPA Policies for Axiom Terraform configuration (today)
-- [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify (today)
-- [GurdipSCode/devops-terraform-modules-ngrok](https://github.com/GurdipSCode/devops-terraform-modules-ngrok) - Terraform module for NGrok (1 day ago)
-- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (1 day ago)
+- [GurdipS5/devops-policies-terraform-axiom](https://github.com/GurdipS5/devops-policies-terraform-axiom) - OPA Policies for Axiom Terraform configuration (1 day ago)
+- [GurdipSCode/devops-policies-teamcity](https://github.com/GurdipSCode/devops-policies-teamcity) - OPA Policies for TeamCity (1 day ago)
+- [GurdipSCode/devops-terraform-modules-tailscale](https://github.com/GurdipSCode/devops-terraform-modules-tailscale) - Terraform module for Tailscale resources (1 day ago)
+- [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify (1 day ago)
+- [GurdipSCode/devops-terraform-modules-ngrok](https://github.com/GurdipSCode/devops-terraform-modules-ngrok) - Terraform module for NGrok (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
