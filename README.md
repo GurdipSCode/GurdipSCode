@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-policies-argocd](https://github.com/GurdipSCode/devops-policies-argocd) - OPA Policies for ArgoCD (today)
+- [GurdipS5/devops-policies-vmware](https://github.com/GurdipS5/devops-policies-vmware) - OPA Policies for VMWare (today)
 - [GurdipSCode/devops-policies-netlify](https://github.com/GurdipSCode/devops-policies-netlify) - OPA Policies for Netlify (today)
 - [GurdipSCode/devops-policies-teamcity](https://github.com/GurdipSCode/devops-policies-teamcity) - OPA Policies for TeamCity (today)
 - [GurdipSCode/devops-policies-buildkite](https://github.com/GurdipSCode/devops-policies-buildkite) - OPA Policies for BuildKite (today)
-- [GurdipS5/devops-policies-vmware](https://github.com/GurdipS5/devops-policies-vmware) - OPA Policies for VMWare (today)
+- [GurdipSCode/devops-threatmodelling-as-code](https://github.com/GurdipSCode/devops-threatmodelling-as-code) - DevOps Threat Modelling as Code (today)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,7 +22,7 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5699 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136323 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136324 stars
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18186 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11307 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2438 stars
