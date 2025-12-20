@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
+- [GurdipSCode/devops-policies-argocd](https://github.com/GurdipSCode/devops-policies-argocd) - OPA Policies for ArgoCD (today)
+- [GurdipSCode/devops-policies-netlify](https://github.com/GurdipSCode/devops-policies-netlify) - OPA Policies for Netlify (today)
 - [GurdipSCode/devops-policies-teamcity](https://github.com/GurdipSCode/devops-policies-teamcity) - OPA Policies for TeamCity (today)
 - [GurdipSCode/devops-policies-buildkite](https://github.com/GurdipSCode/devops-policies-buildkite) - OPA Policies for BuildKite (today)
-- [GurdipSCode/devops-policies-netbox](https://github.com/GurdipSCode/devops-policies-netbox) - OPA Policies for Netbox (today)
-- [GurdipSCode/devops-terraform-modules-tailscale](https://github.com/GurdipSCode/devops-terraform-modules-tailscale) - Terraform module for Tailscale resources (1 day ago)
-- [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify (1 day ago)
+- [GurdipS5/devops-policies-vmware](https://github.com/GurdipS5/devops-policies-vmware) - OPA Policies for VMWare (today)
 
 #### 🚀 Latest releases I contributed to
 
@@ -40,11 +40,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👨‍💻 Repositories I created recently
 
+- [GurdipS5/devops-policies-vmware](https://github.com/GurdipS5/devops-policies-vmware) - OPA Policies for VMWare
 - [GurdipS5/devops-policies-terraform-axiom](https://github.com/GurdipS5/devops-policies-terraform-axiom) - OPA Policies for Axiom Terraform configuration
 - [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify
 - [GurdipS5/Test2](https://github.com/GurdipS5/Test2)
 - [GurdipS5/devops-policies-opnsense](https://github.com/GurdipS5/devops-policies-opnsense)
-- [GurdipS5/TeamWorkingAgreement](https://github.com/GurdipS5/TeamWorkingAgreement)
 
 ## 🧭 Focus Areas
 
