@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
+- [GurdipSCode/devops-policies-argocd](https://github.com/GurdipSCode/devops-policies-argocd) - OPA Policies for ArgoCD (today)
 - [GurdipSCode/devops-securityriskregister](https://github.com/GurdipSCode/devops-securityriskregister) - Security Risk Register (today)
 - [GurdipSCode/devops-riskacceptanceascode](https://github.com/GurdipSCode/devops-riskacceptanceascode) - Risk Acceptance as Code (today)
 - [GurdipSCode/devops-secretslifecycleascode](https://github.com/GurdipSCode/devops-secretslifecycleascode) - DevOps secrets lifecycle as code (today)
-- [GurdipSCode/devops-policies-buildkite](https://github.com/GurdipSCode/devops-policies-buildkite) - OPA Policies for BuildKite (1 day ago)
-- [GurdipSCode/devops-policies-netbox](https://github.com/GurdipSCode/devops-policies-netbox) - OPA Policies for Netbox (1 day ago)
+- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (today)
 
 #### 🚀 Latest releases I contributed to
 
