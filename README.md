@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-policies-prometheus](https://github.com/GurdipSCode/devops-policies-prometheus) - OPA Policies for Prometheus alerts (1 day ago)
-- [GurdipSCode/devops-riskacceptanceascode](https://github.com/GurdipSCode/devops-riskacceptanceascode) - Risk Acceptance as Code (1 day ago)
+- [GurdipSCode/devops-policies-prometheus](https://github.com/GurdipSCode/devops-policies-prometheus) - OPA Policies for Prometheus alerts (today)
+- [GurdipSCode/devops-observabilitystandardsascode](https://github.com/GurdipSCode/devops-observabilitystandardsascode) - Observability Standards As Code (today)
+- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (today)
+- [GurdipSCode/devops-securityriskregister](https://github.com/GurdipSCode/devops-securityriskregister) - Security Risk Register (1 day ago)
 - [GurdipSCode/devops-kubernetes-gitops-robusta](https://github.com/GurdipSCode/devops-kubernetes-gitops-robusta) - Kubernetes ArgoCD manifests for Robusta (1 day ago)
-- [GurdipSCode/devops-policies-argocd](https://github.com/GurdipSCode/devops-policies-argocd) - OPA Policies for ArgoCD (1 day ago)
-- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
