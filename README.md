@@ -10,20 +10,20 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
+- [GurdipSCode/devops-observabilitystandardsascode](https://github.com/GurdipSCode/devops-observabilitystandardsascode) - Observability Standards As Code (today)
+- [GurdipSCode/devops-policies-robusta](https://github.com/GurdipSCode/devops-policies-robusta) - OPA Policies for Robusta (today)
 - [GurdipSCode/devops-policies-prometheus](https://github.com/GurdipSCode/devops-policies-prometheus) - OPA Policies for Prometheus alerts (today)
 - [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (today)
-- [GurdipSCode/devops-observabilitystandardsascode](https://github.com/GurdipSCode/devops-observabilitystandardsascode) - Observability Standards As Code (today)
 - [GurdipSCode/devops-policies-semgrep](https://github.com/GurdipSCode/devops-policies-semgrep) - OPA Policies for  Semgrep rules (today)
-- [GurdipSCode/devops-policies-argocd](https://github.com/GurdipSCode/devops-policies-argocd) - OPA Policies for ArgoCD (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
 
 #### ⭐ Latest repositories I starred
 
-- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5702 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136355 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18197 stars
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5703 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136356 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18198 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11313 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2442 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
