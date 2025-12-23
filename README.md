@@ -1,5 +1,3 @@
-![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
-
 ## 👉 Gurdip Sira
 
 DevOps & Application Security Lead specialising in **cloud platforms, secure CI/CD, Kubernetes, and regulated environments**. I design and lead platforms that balance **developer velocity, security, and auditability** — making complex systems reliable, observable, and boring (by design).
@@ -60,7 +58,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 ## 🎓 Certificates & Trainings
 
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 ## 💻 Technologies & Tools
