@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
+- [GurdipSCode/devops-kubernetes-gitops-kubeshark](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubeshark) -  (today)
+- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (today)
 - [GurdipSCode/devops-commonconfigs](https://github.com/GurdipSCode/devops-commonconfigs) - Common configuration files used in repos (today)
+- [GurdipSCode/devops-kubernetes-gitops-cilium](https://github.com/GurdipSCode/devops-kubernetes-gitops-cilium) - Cilium (today)
 - [GurdipSCode/devops-policies-victoriametrics](https://github.com/GurdipSCode/devops-policies-victoriametrics) - DevOps policies for Victoria Metrics (today)
-- [GurdipSCode/devops-kubernetes-gitops-robusta](https://github.com/GurdipSCode/devops-kubernetes-gitops-robusta) - Kubernetes ArgoCD manifests for Robusta (1 day ago)
-- [GurdipSCode/devops-productionreadinesreview](https://github.com/GurdipSCode/devops-productionreadinesreview) - Automated production readiness reviews (1 day ago)
-- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,8 +22,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5703 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136359 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18202 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136360 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18203 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11313 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2443 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
@@ -40,11 +40,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👨‍💻 Repositories I created recently
 
-- [GurdipS5/devops-policies-vmware](https://github.com/GurdipS5/devops-policies-vmware) - OPA Policies for VMWare
-- [GurdipS5/devops-policies-terraform-axiom](https://github.com/GurdipS5/devops-policies-terraform-axiom) - OPA Policies for Axiom Terraform configuration
 - [GurdipS5/devops-terraform-modules-netlify](https://github.com/GurdipS5/devops-terraform-modules-netlify) - Terraform module for Netlify
 - [GurdipS5/Test2](https://github.com/GurdipS5/Test2)
 - [GurdipS5/devops-policies-opnsense](https://github.com/GurdipS5/devops-policies-opnsense)
+- [GurdipS5/TeamWorkingAgreement](https://github.com/GurdipS5/TeamWorkingAgreement)
+- [GurdipS5/AgentBootstrapper](https://github.com/GurdipS5/AgentBootstrapper)
 
 ## 🧭 Focus Areas
 
