@@ -21,7 +21,7 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### ⭐ Latest repositories I starred
 
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. - 19615 stars
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. - 19616 stars
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes - 6217 stars
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: - 15764 stars
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials - 6518 stars
