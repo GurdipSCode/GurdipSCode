@@ -10,18 +10,18 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-release-scripts](https://github.com/GurdipSCode/devops-release-scripts) - Tool-agnostic scripts to support the CD process in CICD (1 day ago)
+- [GurdipSCode/devops-release-scripts](https://github.com/GurdipSCode/devops-release-scripts) - Tool-agnostic scripts to support the CD process in CICD (today)
 - [GurdipSCode/devops-policies-dnscontrol](https://github.com/GurdipSCode/devops-policies-dnscontrol) - DevOps policies for DNS (1 day ago)
-- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (5 days ago)
-- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (5 days ago)
 - [GurdipSCode/devops-kubernetes-gitops-robusta](https://github.com/GurdipSCode/devops-kubernetes-gitops-robusta) - Kubernetes ArgoCD manifests for Robusta (5 days ago)
+- [GurdipSCode/devops-terraform-buildkite-pipelines](https://github.com/GurdipSCode/devops-terraform-buildkite-pipelines) - Terraform pipelines for modules and services in BuildKite (5 days ago)
+- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
 
 #### ⭐ Latest repositories I starred
 
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. - 19617 stars
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. - 19618 stars
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes - 6217 stars
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: - 15764 stars
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials - 6520 stars
